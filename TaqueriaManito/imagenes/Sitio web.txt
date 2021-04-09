@@ -1,0 +1,10 @@
+﻿Inicio: 08/04/2021 05:58 p. m.
+
+C:/Users/herma/OneDrive/Escritorio/TaqueriaManito/tacos chorizo.html - con errores - Error en operación de obtener porque tacos chorizo.html no existe en el sitio remoto.
+
+Actividad de archivo incompleta. No se completaron 1 archivos o carpetas.
+
+Archivos con errores: 1
+C:/Users/herma/OneDrive/Escritorio/TaqueriaManito/tacos chorizo.html
+
+Fin: 08/04/2021 05:58 p. m.
